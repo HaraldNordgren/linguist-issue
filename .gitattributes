@@ -1,0 +1,2 @@
+*.resolvers.go -linguist-generated
+*.resolvers.go -linguist-vendored
