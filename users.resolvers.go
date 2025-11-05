@@ -37,4 +37,5 @@ package main
 //
 //
 //
+//
 // More than 40 lines so linguist can consider it as a generated file.
